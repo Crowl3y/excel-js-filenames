@@ -1,0 +1,7 @@
+{
+  "name": "excel-js-filenames",
+  "version": "1.0.0",
+  "dependencies": {
+    "exceljs": "^3.8.2"
+  }
+}
