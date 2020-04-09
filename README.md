@@ -5,7 +5,7 @@ Helper to write image src filename arrays to excelify sheet
 ## Getting Started
 
 
-Clone repo to your machine
+Clone/download repo to your machine
 
 NPM install (only installs exceljs so you could just do that if you want)
 
