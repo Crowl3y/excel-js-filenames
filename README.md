@@ -1,11 +1,9 @@
 # excel-js-filenames
 Helper to write image src filename arrays to excelify sheet
 
----
 
 ## Getting Started
 
----
 
 Clone repo to your machine
 
@@ -19,7 +17,6 @@ Edit all the variables in the file to define your image folder location, sheet n
 node filenames.js
 ```
 
----
 
 ## FYI
 
