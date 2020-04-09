@@ -43,7 +43,7 @@ workbook.xlsx.readFile(excelifyFile)
 
         const serverFileNames = [];
 
-        //Dont run for the whole sheet
+        //Dont run for the whole column
         if (SKUCell.value) {
             
             // Loop through file names
